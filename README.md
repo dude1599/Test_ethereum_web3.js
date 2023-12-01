@@ -18,11 +18,10 @@ v1.84.2
 ---
 ## !Description!
 이 프로젝트는 Ethereum 블록체인의 가상 환경인 Ganache에서 제공되는 계정들 중에서 선택한 계정의 잔고를 확인하는 간단한 웹 어플리케이션입니다. 
-
 Ethereum의 스마트 계약이나 dApp 개발 시 자주 사용되는 `web3.js` 라이브러리를 사용하였습니다.
 
----
 This project is a simple web application that retrieves the balance of the selected account from the accounts provided by Ganache, a virtual environment for the Ethereum blockchain.
+
 ---
 
 ## Node.Js Code
